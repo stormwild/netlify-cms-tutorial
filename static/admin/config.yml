@@ -1,6 +1,6 @@
 backend:
-  name: netlify-cms-tutorial
-  repo: https://github.com/stormwild/netlify-cms-tutorial
+  name: github
+  repo: stormwild/netlify-cms-tutorial
 
 media_folder: static/assets
 public_folder: /assets
